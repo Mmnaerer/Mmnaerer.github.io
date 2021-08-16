@@ -1,0 +1,6 @@
+Template Name:  G I F A N | PORTOFOLIO HTML
+Author: G-Code
+Version: 1.0
+Design and Developed by: G-Code
+
+NB: This is the responsive stylesheet of this theme.
